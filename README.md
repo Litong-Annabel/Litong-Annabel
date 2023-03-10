@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on developing coding skills.
+- 💬 Ask me about anything that interests you and we can discuss about it! I am curious about a wide range of fields.
+- 📫 How to reach me: there are several ways!
+  1-university email: l.zhong4@lse.ac.uk
+  2-personal email  : mszhonganna@outlook.com
+  3-phone number    : +447536231700
 
 <!--
 **Litong-Annabel/Litong-Annabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
